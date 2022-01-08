@@ -1,36 +1,92 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     font-family: 'Poppins', sans-serif;
-
-}
-img{
-    width: 100%;
+    color: #021206;
+    overflow-x: hidden;
 }
 
-a:hover{
+button {
+    border: none;
+}
+
+
+a, a:hover {
     text-decoration: none;
     color: inherit;
 }
 
-p{
-    color: #021206;
-    opacity: 0.7;
-}
-.container{
+
+.container {
     width: 1185px;
+    margin: 0 auto;
     padding: 0 15px;
 }
-.row{
+
+.header-container {
+    padding: 50px 0 123px 0;
+}
+
+.row {
     display: flex;
     flex-wrap: wrap;
-    position: relative;
-    padding: 0 -15px
+    margin: 0 -15px
 
 }
-.col-4{
+
+.header .row {
+    align-items: center;
+}
+
+.col-4 {
     width: 33.33333%;
+}
+.col-5{
+    width: 41.66666%;
+    padding: 0 15px;
+}
+
+.col-7{
+    width: 58.33333%;
+    padding: 0 15px;
+}
+
+.menu {
+    text-align: center;
+    opacity: 0.5;
+}
+
+.menu-item {
+    padding: 0 22px;
+}
+
+.header-auth {
+    text-align: right;
+}
+.header-signIn{
+    padding: 15px 30px;
+    border-radius: 6px;
+    color: #fff;
+    background-color: #F44545;
+}
+.header-login{
+    opacity: 0.7;
+    padding-right: 23px;
+}
+.hero-title{
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 81px;
+}
+.hero-title span{
+    color: #3EFFC0;
+    margin-bottom: 25px;
+}
+.hero-subtitle{
+    font-size: 21px;
+    line-height: 160%;
 }
