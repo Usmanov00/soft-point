@@ -288,9 +288,53 @@ a, a:hover {
     position: absolute;
     width: 591px;
     height: 440px;
-    left: 0;
+    left: -15px;
     top: 2400px;
 }
 
+.serving-title{
+    position: absolute;
+    width: 499px;
+    height: 136px;
+    left: 815px;
+    top: 2521px;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #021206;
+
+
+}
+
+.serving-subtitle{
+    position: absolute;
+    width: 480px;
+    height: 87px;
+    left: 815px;
+    top: 2677px;
+    font-size: 18px;
+    line-height: 160%;
+    color: #021206;
+    opacity: 0.7;
+}
+
+.serving-subtitle1{
+    position: absolute;
+    width: 479px;
+    height: 87px;
+    left: 815px;
+    top: 2779px;
+    font-size: 18px;
+    line-height: 160%;
+    color: #021206;
+    opacity: 0.7;
+}
+.download{
+    background: #8EE6C9;
+    opacity: 0.1;;
+}
+.download-container{
+    padding: 0 91px;
+}
 
 
