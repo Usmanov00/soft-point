@@ -195,7 +195,6 @@ a, a:hover {
     font-size: 45px;
     line-height: 67px;
     color: #021206;
-
     margin-bottom: 20px;
 }
 
@@ -243,6 +242,54 @@ a, a:hover {
     align-items: center;
     flex-direction: column;
     padding-left: 70px;
+}
+
+.discover-title{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #021206;
+    margin-bottom: 20px;
+    padding-top: 100px;
+}
+.discover-subtitle{
+    font-size: 18px;
+    line-height: 160%;
+    color: #021206;
+    opacity: 0.7;
+    margin-bottom: 20px;
+}
+
+.tick{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 25px;
+
+}
+
+.tick p{
+
+    padding-left: 11px;
+    opacity: 0.7;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.plan{
+    position: absolute;
+    width: 594px;
+    height: 463px;
+    left: 680px;
+    top: 1801px;
+}
+.statistics{
+    position: absolute;
+    width: 591px;
+    height: 440px;
+    left: 0;
+    top: 2400px;
 }
 
 
