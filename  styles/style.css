@@ -1,3 +1,4 @@
+
 * {
     padding: 0;
     margin: 0;
@@ -418,4 +419,146 @@ a, a:hover {
     left: -150px;
     direction: ltr;
 }
+
+.get-software{
+    background: rgba(142, 230, 201, 0.1);
+
+}
+
+.get-title{
+    padding-top: 91px;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+}
+.get-subtitle{
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    opacity: 0.7;
+    margin-bottom: 30px;
+}
+
+.get-btn{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    padding: 15px 33px;
+    background-color: #F44545;
+    color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-bottom:  91px;
+}
+.get-btn:hover{
+    background-color: #ff0000;
+    transition: 0.4s;
+}
+
+.get-software.row{
+    position: relative;
+}
+.get-laptop{
+    position: absolute;
+    bottom: 0;
+    right: -250px;
+
+}
+
+.price-container{
+    padding: 110px 0 120px 0;
+}
+
+.price-title{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #021206;
+    text-align: center;
+}
+.price-subtitle{
+    font-size: 18px;
+    line-height: 170%;
+    text-align: center;
+    color: #021206;
+    opacity: 0.7;
+    margin-bottom: 36px;
+}
+.price-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 34px;
+}
+.plan-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 34px;
+}
+
+.plan-input p {
+    font-weight: 500;
+    padding: 0 15px;
+    font-size: 20px;
+    line-height: 16px;
+    color: #4E5951;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #43DDAA;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+input {
+    background-color: initial;
+    cursor: default;
+    appearance: auto;
+    box-sizing: border-box;
+    margin: 3px 3px 3px 4px;
+    padding: initial;
+    border: initial;
+}
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.save-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 85px;
+
+}
+.pointer svg{
+    margin: 0 15px 15px;
+}
+
+
+
+
+
+
+
 
