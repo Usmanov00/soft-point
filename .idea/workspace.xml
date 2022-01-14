@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311bfe07-7847-43d2-855c-82f5d0f6203b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ styles/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ styles/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2022,_02_56_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2022__02_56__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/laptop.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/laptop.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +71,7 @@
       <updated>1641666394144</updated>
       <workItem from="1641666395442" duration="24184000" />
       <workItem from="1642108091450" duration="9320000" />
-      <workItem from="1642139316644" duration="7113000" />
+      <workItem from="1642139316644" duration="11491000" />
     </task>
     <servers />
   </component>
