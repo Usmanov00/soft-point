@@ -31,6 +31,7 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 AOS.init();
 
 
+
 $(document).ready(function(){
     $(".owl-carousel").owlCarousel({
         items: 5,
