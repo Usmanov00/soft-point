@@ -227,6 +227,14 @@
     .menu.show{
         left: 100%;
     }
+    .green-range{
+        left: 3px;
+        top: 5299px;
+
+    }
+    .yellow-range{
+        top: 5800px;
+    }
 
 }
 
