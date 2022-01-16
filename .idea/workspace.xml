@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311bfe07-7847-43d2-855c-82f5d0f6203b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ styles/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ styles/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <workItem from="1642108091450" duration="9320000" />
       <workItem from="1642139316644" duration="13917000" />
       <workItem from="1642273088616" duration="9056000" />
-      <workItem from="1642354591994" duration="2075000" />
+      <workItem from="1642354591994" duration="2371000" />
     </task>
     <servers />
   </component>

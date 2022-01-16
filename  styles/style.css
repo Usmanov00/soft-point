@@ -920,6 +920,19 @@ input[type=range]:active::-ms-fill-upper {
 
 }
 
+.centerr{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    
+
+}
+
+.header-auth{
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
