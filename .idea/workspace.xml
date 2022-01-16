@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/ styles/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/ styles/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,10 @@
       <workItem from="1642369326256" duration="143000" />
       <workItem from="1642369490113" duration="128000" />
       <workItem from="1642369634144" duration="125000" />
-      <workItem from="1642369775144" duration="1253000" />
+      <workItem from="1642369775144" duration="1433000" />
+      <workItem from="1642371307349" duration="53000" />
+      <workItem from="1642371407231" duration="123000" />
+      <workItem from="1642371547075" duration="1597000" />
     </task>
     <servers />
   </component>
