@@ -393,6 +393,7 @@ a, a:hover {
     flex-direction: column;
     justify-content: center;
 
+
 }
 
 .serving-title {
@@ -912,6 +913,10 @@ input[type=range]:active::-ms-fill-upper {
     color: #021206;
     opacity: 0.7;
     font-size: 16px;
+
+}
+
+.box-in-box img{
 
 }
 

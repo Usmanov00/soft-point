@@ -33,10 +33,19 @@ AOS.init();
 
 
 $(document).ready(function(){
-    $(".owl-carousel").owlCarousel({
+    $(".price-carousel").owlCarousel({
+        items: 3,
+        loop: true,
+        margin: 30,
+        dots: true,
+    });
+
+    $(".brands-carousel").owlCarousel({
         items: 5,
         loop: true,
-        margin: 40,
+        margin: 30,
         dots: true,
     });
 });
+
+
