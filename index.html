@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family==Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
           rel="stylesheet">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="./%20styles/owl.carousel.min.css">
     <link rel="stylesheet" href="./%20styles/owl.theme.default.min.css">
     <link rel="stylesheet" href="./%20styles/style.css">
@@ -17,36 +18,33 @@
 <body>
 <div class="header">
     <div class="container header-container">
-        <div class="row">
-            <div class="centerr">
-            <div class="col-4"><a href="#" class="logo">
+            <div class="justify-content">
+            <a href="#" class="logo">
                 <img src="./img/Logo.png" alt="">
             </a>
-            </div>
-            <div class="col-4">
-                <nav class="menu">
-                    <a href="#" class="menu-item">Feature</a>
-                    <a href="#" class="menu-item">Download</a>
-                    <a href="#" class="menu-item">Pricing</a>
+                <nav class="menu show">
+                    <a href="#feature" class="menu-item">Feature</a>
+                    <a href="#download" class="menu-item">Download</a>
+                    <a href="#price" class="menu-item">Pricing</a>
                 </nav>
-            </div>
-            <div class="col-4">
+                <div class="burger"><i class="fas fa-ellipsis-v"></i>
+                </div>
                 <div class="header-auth">
                     <a href="#" class="header-login">Login</a>
                     <a href="#" class="header-signIn">Sign up</a>
                 </div>
             </div>
         </div>
-        </div>
     </div>
 </div>
-<section class="hero">
+<section  class="hero" id="feature">
     <div class="container hero-container">
         <div class="row">
             <div class="col-5" data-aos="zoom-in-down">
                 <h1 class="hero-title">Develop Your Life With <span>One Step.</span></h1>
                 <p class="hero-subtitle">Pushing the possibilities of the internet. Good for
                     the last software. <span>Make it A software night.</span></p>
+
                 <form class="feedback-form">
                     <label>
                         <input type="text" placeholder="Enter your email" class="hero-input">
@@ -64,7 +62,7 @@
         </div>
     </div>
 </section>
-<section class="multiplication">
+<section  class="multiplication">
     <div class="container multiplication-container">
         <div class="owl-carousel brands-carousel">
             <a href="#"><img src="./img/google.png" alt=""></a>
@@ -75,7 +73,7 @@
         </div>
     </div>
 </section>
-<section class="info">
+<section id="download" class="info">
     <div class="container info-container">
         <div class="row">
             <div class="col-6">
@@ -256,7 +254,7 @@
         </div>
     </div>
 </section>
-<section class="get-software">
+<section  class="get-software">
     <div class="container get-software-container">
         <div class="row">
             <div class="col-5" data-aos="zoom-out-right">
@@ -275,7 +273,7 @@
         </div>
     </div>
 </section>
-<section class="price">
+<section id="price" class="price">
     <div class="container price-container">
         <h2 class="price-title data-aos">Best Pricing Plan</h2>
         <p class="price-subtitle">Empowering the Internet Generation. Driving the Communication Revolution.<br>
@@ -319,6 +317,7 @@
         <img src="./img/green.png" alt="" class="green-range">
         <div class="owl-carousel price-carousel">
             <div class="holder">
+
                 <h3 class="title-pricing">basic plan</h3>
                 <h2 class="pricing">$0</h2>
                 <div class="pricing-box">
@@ -426,7 +425,7 @@
         </div>
     </div>
 </section>
-<section class="footer">
+<section  class="footer">
     <div class="container footer-container">
         <div class="row ">
             <div class="col-3" data-aos="flip-right">

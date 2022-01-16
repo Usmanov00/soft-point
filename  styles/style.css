@@ -28,11 +28,11 @@ a, a:hover {
     padding: 0 15px;
 }
 
+
 .header-container {
 
     padding: 50px 0 123px 0;
 }
-
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -41,8 +41,10 @@ a, a:hover {
 
 }
 
-.header .row {
-    align-items: center;
+.justify-content{
+    display: flex;
+    justify-content: space-between;
+
 }
 
 .col-3 {
@@ -176,7 +178,8 @@ a, a:hover {
 }
 
 .apps {
-
+    display: flex;
+    align-items: center;
 }
 
 .hero-apple {
@@ -920,19 +923,13 @@ input[type=range]:active::-ms-fill-upper {
 
 }
 
-.centerr{
-    display: flex;
-    justify-content: space-between;
-    text-align: center;
-    align-items: center;
-    
 
+.burger{
+    display: none;
 }
 
-.header-auth{
-    display: flex;
-    justify-content: space-between;
-}
+
+
 
 
 
