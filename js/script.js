@@ -48,7 +48,11 @@ $(document).ready(function(){
             },
             576:{
                 items: 1,
+            },
+            375:{
+                items: 1,
             }
+
 
         }
 
