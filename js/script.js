@@ -38,6 +38,20 @@ $(document).ready(function(){
         loop: true,
         margin: 30,
         dots: true,
+        nav: true,
+        responsive:{
+            1200:{
+                items: 3,
+            },
+            992:{
+                items: 2,
+            },
+            576:{
+                items: 1,
+            }
+
+        }
+
     });
 
     $(".brands-carousel").owlCarousel({
