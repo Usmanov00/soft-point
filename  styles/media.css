@@ -259,9 +259,9 @@
 @media (max-width: 576px) {
     /* 320 - 576 */
     .container {
-       
+        max-width: 370px;
         padding: 0 15px;
-        margin:auto;
+        margin: auto;
     }
 
     .menu {
@@ -392,7 +392,6 @@
     .col-5 {
         width: 100%;
     }
-
 
 
     .coll {
@@ -566,5 +565,3 @@
         width: 50px;
     }
 }
-
-x
