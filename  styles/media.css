@@ -542,5 +542,10 @@
     .price-container {
         padding: 30px 0 0 0;
     }
+    input[type=range] + label {
+        left: calc(50% - 25px);
+        width: 50px;
+    }
 }
 
+x`
