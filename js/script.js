@@ -9,7 +9,7 @@ range.addEventListener('input', (e) => {
     const range_width = getComputedStyle(e.target).getPropertyValue('width');
     // Get the width value of the label
     const label_width = getComputedStyle(label).getPropertyValue('width');
-    // Remove 'px' and conver to number
+    // Remove 'px' and convert to number
     const num_width = +range_width.substring(0, range_width.length - 2);
     const num_label_width = +label_width.substring(0, label_width.length - 2);
     // Get min and max values
